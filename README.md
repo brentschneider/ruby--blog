@@ -60,10 +60,10 @@
 * Lecture 7: Rails Controllers -- Response
 * Lecture 8: MVC Implementation in Rails
 * Lecture 9: The Blog App -- Iteration 4
-* __Homework: Quiz 11, Lectures 1-3, __
-* __Homework: Quiz 12, Lectures 4-6, __
-* __Homework: Quiz 14, Lectures 7-8, __
-* __Homework: Programming Assignment 3 __
+* __Homework: Quiz 11, Lectures 1-3,__
+* __Homework: Quiz 12, Lectures 4-6,__
+* __Homework: Quiz 14, Lectures 7-8,__
+* __Homework: Programming Assignment 3__
 
 ### Week Six, — Module 6: Presentation/User Interface ###
 * Lecture 1: Introduction and Background
@@ -75,8 +75,8 @@
 * Lecture 7: JavaScript and jQuery
 * Lecture 8: Ajax
 * Lecture 9: The Blog App -- Iteration 5
-* __Homework: Quiz 15, Lectures 1-2, __
-* __Homework: Quiz 16, Lectures 3-4, __
-* __Homework: Quiz 17, Lectures 5-6, __
-* __Homework: Quiz 18, Lectures 7-8, __
+* __Homework: Quiz 15, Lectures 1-2,__
+* __Homework: Quiz 16, Lectures 3-4,__
+* __Homework: Quiz 17, Lectures 5-6,__
+* __Homework: Quiz 18, Lectures 7-8,__
 * __Homework: Programming Assignment 4__
